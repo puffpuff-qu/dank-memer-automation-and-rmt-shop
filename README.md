@@ -6,46 +6,75 @@
 
 # Grinder Market
 
-### Dank Memer Automation & RMT Shop
+### Advanced Dank Memer Automation and RMT Marketplace
 
-**Spend less time grinding. Get more out of Dank Memer.**
+**Automate the grind. Build value faster. Buy with private support.**
 
-[![Visit Grinder Market](https://img.shields.io/badge/VISIT_GRINDER_MARKET-Get_Started-5865F2?style=for-the-badge)](https://autogrinder.vercel.app/)
-[![3 Day Offer](https://img.shields.io/badge/3_DAYS-$3_PER_ACCOUNT-22C55E?style=for-the-badge)](https://autogrinder.vercel.app/)
-[![Join Discord](https://img.shields.io/badge/JOIN_OUR_DISCORD-Support_&_Updates-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WQsxBS3hwv)
+[![Shop Grinder Market](https://img.shields.io/badge/SHOP_GRINDER_MARKET-VIEW_LIVE_OFFERS-5865F2?style=for-the-badge)](https://autogrinder.vercel.app/)
+[![Join Discord](https://img.shields.io/badge/JOIN_DISCORD-SUPPORT_&_UPDATES-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WQsxBS3hwv)
 
 </div>
 
 ---
 
-## The smarter way to grind
+## Start with 5% off
 
-Get **3 days of advanced Dank Memer automation for only $3 per account**. It is designed to produce far more in-game value than its cost, potentially within a single day, while saving you hours of repetitive grinding. Results vary by account activity, game conditions, and service availability.
-
-Grinder Market offers what we believe is the **most advanced and safest automation in Dank Memer history**, backed by a private ordering and support experience.
-
-## Available from the live store
-
-- Advanced Dank Memer auto grinders and self-bots
-- Old accounts with bulk commands and levels
-- Dank Memer coins
-- Bulk Dank Memer items
-- Selected custom Discord bot services
-
-## Ready to upgrade your grind?
-
-Current availability, prices, and purchasing are handled through the official Grinder Market website.
+New customers receive **5% off their first eligible purchase**. Create your account, choose an available offer, and submit your order through the official store.
 
 <div align="center">
 
-## [Browse live offers and purchase →](https://autogrinder.vercel.app/)
+### [Claim your first-purchase discount](https://autogrinder.vercel.app/)
 
-### [Join the Grinder Market Discord](https://discord.gg/WQsxBS3hwv)
+</div>
 
-**3 days · $3 per account · Limited by availability**
+## Featured automation offer
+
+Get **3 days of advanced Dank Memer automation for only $3 per account**. The service is designed to save hours of repetitive grinding and can create significantly more in-game value than its cost. Results vary with account activity, game conditions, and service availability.
+
+We believe Grinder Market offers the **most advanced and safest automation in Dank Memer history**, supported by a private order inbox and direct status updates.
+
+## Shop the marketplace
+
+| Service | What you can find |
+| --- | --- |
+| Auto grinders | Advanced Dank Memer automation and self-bot services |
+| Old accounts | Established accounts with bulk commands and levels |
+| Dank Memer coins | Coin offers based on current availability |
+| Bulk items | High-volume Dank Memer item offers |
+| Custom services | Selected Discord bot and custom-work offers |
+
+Prices and availability are shown on the live store.
+
+## Invite friends and earn 5% off
+
+Share your private referral code with a friend:
+
+1. Your friend receives the standard **5% first-purchase discount**.
+2. After their first eligible paid order is completed, you receive **5% off your next eligible order**.
+3. Keep referring eligible new customers to earn more rewards.
+
+Referral codes must be accepted before the referred customer's first paid order. Qualifying orders must be at least $1 and completed. Rewards apply one at a time, cannot be stacked, and expire after 90 days. Self-referrals, reciprocal referrals, referral circles, and linked-account abuse are not eligible.
+
+## A clearer way to order
+
+- Browse current offers and transparent pricing.
+- Submit an order through the official website.
+- Continue in a private support inbox tied to your account.
+- Receive payment instructions only after staff accepts the order.
+- Follow order messages and status updates in one place.
+
+<div align="center">
+
+## Ready to get started?
+
+### [Browse live offers and purchase](https://autogrinder.vercel.app/)
+
+[Visit the store](https://autogrinder.vercel.app/) • [Join the Discord server](https://discord.gg/WQsxBS3hwv)
+
+**3 days of automation • $3 per account • 5% off your first eligible purchase**
 
 </div>
 
 ---
 
-<sub>Grinder Market is an independent service and is not affiliated with, endorsed by, or sponsored by Discord or Dank Memer. Automation or real-money trading may carry account or platform-policy risks; customers are responsible for reviewing applicable rules.</sub>
+<sub>Grinder Market is an independent service and is not affiliated with, endorsed by, or sponsored by Discord or Dank Memer. Automation or real-money trading may carry account or platform-policy risks. Customers are responsible for reviewing applicable rules. Discounts and referral rewards are subject to eligibility and availability.</sub>
