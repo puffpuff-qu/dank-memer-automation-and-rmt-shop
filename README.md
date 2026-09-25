@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://autogrinder.vercel.app/">
-  <img src="assets/grinder-market-logo.png" alt="Grinder Market logo" width="120">
+  <img src="https://autogrinder.vercel.app/auto-grinder-logo.png" alt="Grinder Market logo" width="120">
 </a>
 
 # Grinder Market
