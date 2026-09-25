@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://autogrinder.vercel.app/">
+  <img src="assets/grinder-market-logo.png" alt="Grinder Market logo" width="120">
+</a>
+
 # Grinder Market
 
 ### Dank Memer Automation & RMT Shop
@@ -8,6 +12,7 @@
 
 [![Visit Grinder Market](https://img.shields.io/badge/VISIT_GRINDER_MARKET-Get_Started-5865F2?style=for-the-badge)](https://autogrinder.vercel.app/)
 [![3 Day Offer](https://img.shields.io/badge/3_DAYS-$3_PER_ACCOUNT-22C55E?style=for-the-badge)](https://autogrinder.vercel.app/)
+[![Join Discord](https://img.shields.io/badge/JOIN_OUR_DISCORD-Support_&_Updates-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WQsxBS3hwv)
 
 </div>
 
@@ -15,7 +20,7 @@
 
 ## The smarter way to grind
 
-Get **3 days of advanced Dank Memer automation for only $3 per account**. It is designed to produce far more in-game value than its cost—potentially within a single day—while saving you hours of repetitive grinding. Results vary by account activity, game conditions, and service availability.
+Get **3 days of advanced Dank Memer automation for only $3 per account**. It is designed to produce far more in-game value than its cost, potentially within a single day, while saving you hours of repetitive grinding. Results vary by account activity, game conditions, and service availability.
 
 Grinder Market offers what we believe is the **most advanced and safest automation in Dank Memer history**, backed by a private ordering and support experience.
 
@@ -34,6 +39,8 @@ Current availability, prices, and purchasing are handled through the official Gr
 <div align="center">
 
 ## [Browse live offers and purchase →](https://autogrinder.vercel.app/)
+
+### [Join the Grinder Market Discord](https://discord.gg/WQsxBS3hwv)
 
 **3 days · $3 per account · Limited by availability**
 
