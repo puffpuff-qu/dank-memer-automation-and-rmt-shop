@@ -1,21 +1,44 @@
-# Grinder Market — Dank Memer Automation & RMT Shop
+<div align="center">
 
-Grinder Market is a dedicated Dank Memer real-money trading (RMT) storefront for auto grinders (self-bots), old Discord accounts with bulk commands, Dank Memer coins, and bulk items.
+# Grinder Market
 
-## Available through the live store
+### Dank Memer Automation & RMT Shop
 
-- Auto grinders and self-bot services
+**Spend less time grinding. Get more out of Dank Memer.**
+
+[![Visit Grinder Market](https://img.shields.io/badge/VISIT_GRINDER_MARKET-Get_Started-5865F2?style=for-the-badge)](https://autogrinder.vercel.app/)
+[![3 Day Offer](https://img.shields.io/badge/3_DAYS-$3_PER_ACCOUNT-22C55E?style=for-the-badge)](https://autogrinder.vercel.app/)
+
+</div>
+
+---
+
+## The smarter way to grind
+
+Get **3 days of advanced Dank Memer automation for only $3 per account**. It is designed to produce far more in-game value than its cost—potentially within a single day—while saving you hours of repetitive grinding. Results vary by account activity, game conditions, and service availability.
+
+Grinder Market offers what we believe is the **most advanced and safest automation in Dank Memer history**, backed by a private ordering and support experience.
+
+## Available from the live store
+
+- Advanced Dank Memer auto grinders and self-bots
 - Old accounts with bulk commands and levels
 - Dank Memer coins
 - Bulk Dank Memer items
-- Custom Discord bot services
+- Selected custom Discord bot services
 
-Orders are submitted through the official website and managed in a private support inbox. Customers receive status notifications and verified payment instructions only after an order is accepted.
+## Ready to upgrade your grind?
 
-## Featured automation offer
+Current availability, prices, and purchasing are handled through the official Grinder Market website.
 
-Get **3 days of advanced Dank Memer automation for $3 per account**. The plan is designed to create substantially more in-game value than its cost, potentially within a day. Results vary with account activity, game conditions, and service availability.
+<div align="center">
 
-### [Browse live offers at Grinder Market →](https://autogrinder.vercel.app/)
+## [Browse live offers and purchase →](https://autogrinder.vercel.app/)
 
-> Grinder Market is an independent service and is not affiliated with or endorsed by Discord or Dank Memer.
+**3 days · $3 per account · Limited by availability**
+
+</div>
+
+---
+
+<sub>Grinder Market is an independent service and is not affiliated with, endorsed by, or sponsored by Discord or Dank Memer. Automation or real-money trading may carry account or platform-policy risks; customers are responsible for reviewing applicable rules.</sub>
